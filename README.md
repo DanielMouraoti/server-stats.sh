@@ -129,9 +129,9 @@ Basta editar o script e adicionar comandos bash conhecidos no *main()*. Exemplos
 - Espaço de disco de todos os mounts:
   `df -h`
 
-  ### 🔗 Projeto no GitHub
+  ### 🔗 Projeto DevOps Roadmap
 
-[https://github.com/DanielMouraoti/server-stats.sh](https://github.com/DanielMouraoti/server-stats.sh)
+[https://roadmap.sh/projects/server-stats)
 
 ---
 
