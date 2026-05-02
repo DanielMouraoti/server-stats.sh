@@ -32,8 +32,8 @@ O script foi feito para rodar em QUALQUER Linux* com ferramentas básicas já in
 
 **1. Clone o repositório ou copie o script:**
 ```bash
-git clone https://github.com/DanielMouraoti/study-ai.git
-cd study-ai
+git clone https://github.com/DanielMouraoti/server-stats.sh
+cd server-stats.sh
 ```
 
 **2. Torne o script executável:**
